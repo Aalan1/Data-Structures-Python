@@ -58,5 +58,5 @@ class Queue():
             else:
                 # done
                 correct = True
-
+        return largest
 
